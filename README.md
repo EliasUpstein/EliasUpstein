@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Bienvenidos a mi perfil de GitHub 😄
 
-<!--
-**EliasUpstein/EliasUpstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí 📚
 
-Here are some ideas to get you started:
+- ⚙️ Técnico Electrónico.
+- 🎓 Estudiante de Ingeniería Electrónica.
+- 💻 Apasionado por la programación y la tecnología en general.
+- 🚀 Amante de la innovación.
+- 📖 En continuo aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Hello! 👋 Welcome to my GitHub profile 😄
+
+## About me 📚
+
+- ⚙️ Electronics Technician.
+- 🎓 Electronics Engineering Student.
+- 💻 Passionate about programming and technology.
+- 🚀 Innovation enthusiast.
+- 📖 Lifelong learner.
